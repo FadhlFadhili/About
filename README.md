@@ -21,4 +21,4 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-<h4 align="right"> That's it! </h4>
+<h4 align="left"> That's it! </h4>
