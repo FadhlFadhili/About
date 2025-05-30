@@ -3,6 +3,9 @@
   Welcome to Fadhl's profile
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
+- ![Static Badge](https://img.shields.io/badge/Who%20I%20am%3F-red)
+
+## I'm a Software Engineer student...
 
 - ![Static Badge](https://img.shields.io/badge/Who%20I%20am%3F-red) <span style="font-size:24px;">I'm a Software Engineer student...</span>
 - ![Static Badge](https://img.shields.io/badge/Who%20I%20am%3F-red) I'm a Software Engineer student...
