@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/5mxo8hV.gif" width="530" alt="Centered Image">
+  <img src="https://i.imgur.com/DhDmf6w.gif" width="530" alt="Centered Image">
 </div>
 
 <h3 align="center">
