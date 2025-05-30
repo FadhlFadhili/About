@@ -23,7 +23,4 @@
 
 <h4 align="left"> That's it! </h4>
 
-<video width="480" controls>
-  <source src="https://imgur.com/a/IQRra8w" type="Moon/mp4">
-  Your browser does not support the video tag.
-</video>
+<img src="https://imgur.com/a/IQRra8w">
