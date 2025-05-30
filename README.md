@@ -23,4 +23,4 @@
 
 <h4 align="left"> That's it! </h4>
 
-<img src="https://imgur.com/a/IQRra8w" width="400">
+<img src="https://imgur.com/X1Pcubb" width="400">
