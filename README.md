@@ -2,6 +2,8 @@
   <img src="https://i.imgur.com/DhDmf6w.gif" width="530" alt="Centered Image">
 </div>
 
+<-- hi five: https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif -->
+
 <h3 align="center">
   Welcome to Fadhl's profile
   <img src="https://i.imgur.com/XuA0nCO.gif" width="28">
