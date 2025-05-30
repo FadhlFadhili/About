@@ -9,7 +9,7 @@
 - <img src="https://img.icons8.com/?size=100&id=13679&format=png" height="30"> Ask me about my experience with Java .
 - ![Static Badge](https://img.shields.io/badge/%F0%9F%95%B5%EF%B8%8F%E2%80%8D%E2%99%82%EF%B8%8F%20off--the--record-black) Fun Fact: There is no fun in fact!
 
---![Static Badge](https://img.shields.io/badge/%F0%9F%92%AC%20Questions-blue)
+![Static Badge](https://img.shields.io/badge/%F0%9F%92%AC%20Questions-blue)
 ### Connect with Me :
 
 <a href="https://t.me/FadhlFadhili" target="_blank"><img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=Telegram&logoColor=ffe6a7&logoSize=20&color=99582a"/></a>
