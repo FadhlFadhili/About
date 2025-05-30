@@ -15,8 +15,7 @@
 <a href="https://t.me/FadhlFadhili" target="_blank"><img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=Telegram&logoColor=ffe6a7&logoSize=20&color=99582a"/></a>
 
 ### 🛠 &nbsp;Tech Stack
-<img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" height="20">
-<img src="https://img.shields.io/badge/Java-blue?style=for-the-badge">
+<img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" height="20"> <img src="https://img.shields.io/badge/Java-blue?style=for-the-badge">
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
