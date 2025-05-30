@@ -1,4 +1,6 @@
-<img src="https://i.imgur.com/wfNIJOc.gif" width="400" alt="Centered Image">
+<div align="center">
+  <img src="https://i.imgur.com/wfNIJOc.gif" alt="Centered Image">
+</div>
 
 <h3 align="center">
   Welcome to Fadhl's profile
