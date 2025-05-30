@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/wfNIJOc.gif">
+<img src="https://i.imgur.com/wfNIJOc.gif" width="200" align="center">
 
 <h3 align="center">
   Welcome to Fadhl's profile
