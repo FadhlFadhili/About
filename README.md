@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-- ![Static Badge](https://img.shields.io/badge/Who%20I%20am%3F-red) <sup>I'm a Software Engineer student...</sup>(h3)
+- ![Static Badge](https://img.shields.io/badge/Who%20I%20am%3F-red) <sup size:100>I'm a Software Engineer student...</sup>
 - ![Static Badge](https://img.shields.io/badge/I'm%20in%20The%20Road-cyan) As a third-year student, I constantly learn and explore new technologies to improve my skills.
 - <img src="https://img.icons8.com/?size=100&id=13679&format=png" height="30"> Ask me about my experience with Java .
 - ![Static Badge](https://img.shields.io/badge/%F0%9F%95%B5%EF%B8%8F%E2%80%8D%E2%99%82%EF%B8%8F%20off--the--record-gray) Fun Fact: There is no fun in fact!
