@@ -23,8 +23,5 @@
 
 <h4 align="left"> That's it! </h4>
 
-<video width="600" controls>
-  <source src="https://i.imgur.com/X1Pcubb.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<img src="https://i.imgur.com/BqsvBeS.gif">
 
