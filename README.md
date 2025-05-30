@@ -4,8 +4,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-- I'm a Software Engineer student... 
-<img src="https://img.shields.io/badge/Who%20I%20am%3F-red">
+<img src="https://img.shields.io/badge/Who%20I%20am%3F-red">+- I'm a Software Engineer student... 
 
 - As a third-year student, I constantly learn and explore new technologies to improve my skills.
 <img src="https://img.shields.io/badge/I'm%20in%20The%20Road-cyan">
