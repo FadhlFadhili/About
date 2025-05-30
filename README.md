@@ -15,10 +15,8 @@
   
 
 ### Connect with Me :
+[![Telegram](https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=Telegram&logoColor=ffe6a7&color=99582a)](https://t.me/FadhlFadhili)
 
-<a href="https://t.me/FadhlFadhili" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=Telegram&logoColor=ffe6a7&color=99582a" alt="Telegram Badge"/>
-</a>
 <a href="https://t.me/FadhlFadhili" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=Telegram&logoColor=ffe6a7&logoSize=20&color=99582a"/></a>
 
 ### 🛠 &nbsp;Tech Stack
