@@ -5,18 +5,15 @@
 </h3>
 
 <img src="https://img.shields.io/badge/Who%20I%20am%3F-red">
-
 - I'm a Software Engineer student... 
 
 <img src="https://img.shields.io/badge/I'm%20in%20The%20Road-cyan">
-
 - As a third-year student, I constantly learn and explore new technologies to improve my skills.
 
 <img src="https://img.shields.io/badge/%F0%9F%95%B5%EF%B8%8F%E2%80%8D%E2%99%82%EF%B8%8F%20off--the--record-gray">
 - Fun Fact: There is no fun in fact!
   
 
-![Static Badge](https://img.shields.io/badge/%F0%9F%92%AC%20Questions-blue)
 ### Connect with Me :
 
 <a href="https://t.me/FadhlFadhili" target="_blank"><img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=Telegram&logoColor=ffe6a7&logoSize=20&color=99582a"/></a>
