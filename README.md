@@ -23,4 +23,4 @@
 
 <h4 align="left"> That's it! </h4>
 
-<img src="https://imgur.com/a/IQRra8w">
+<img src="https://imgur.com/a/IQRra8w" alt="GitHub-hosted GIF">
