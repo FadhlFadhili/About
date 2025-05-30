@@ -6,7 +6,7 @@
 
 - ![Static Badge](https://img.shields.io/badge/Who%20I%20am%3F-red) I'm a Software Engineer student...
 - ![Static Badge](https://img.shields.io/badge/I'm%20in%20The%20Road-cyan) As a third-year student, I constantly learn and explore new technologies to improve my skills.
-- ![Static Badge](https://img.shields.io/badge/%F0%9F%92%AC%20Questions-blue) Ask me about my experience with Java <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" height="50">.
+- ![Static Badge](https://img.shields.io/badge/%F0%9F%92%AC%20Questions-blue) Ask me about my experience with Java <img src="https://img.icons8.com/?size=100&id=13679&format=png" height="30">.
 - ![Static Badge](https://img.shields.io/badge/%F0%9F%95%B5%EF%B8%8F%E2%80%8D%E2%99%82%EF%B8%8F%20off--the--record-black) Fun Fact: There is no fun in fact!
 
 
