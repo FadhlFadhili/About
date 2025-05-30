@@ -16,7 +16,7 @@
 
 ### Connect with Me :
 
-<a href="https://t.me/FadhlFadhili" target="_blank"><img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=Telegram&logoColor=ffe6a7&logoSize=20&color=99582a"/></a>
+<a href="https://t.me/FadhlFadhili" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=Telegram&logoColor=ffe6a7&logoSize=20&color=99582a"/></a>
 
 ### 🛠 &nbsp;Tech Stack
 
