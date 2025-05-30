@@ -23,5 +23,5 @@
 
 <h4 align="left"> That's it! </h4>
 
-<img src="https://i.imgur.com/BqsvBeS.gif" width="400" alt="Moon GIF">
+<img src="https://i.imgur.com/BqsvBeS.gif" width="400" alt="Moon GIF" />
 
