@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/DhDmf6w.gif" width="530" alt="Centered Image">
+  <a href="https://mp3quran.net/ar/mushaf" target="_blank"><img src="https://i.imgur.com/DhDmf6w.gif" width="530" alt="Centered Image"> </a>
 </div>
 
 <!-- hi five: https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif width="28"-->
