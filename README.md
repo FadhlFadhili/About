@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://mp3quran.net/ar/mushaf" target="_blank"><img src="https://i.imgur.com/DhDmf6w.gif" width="530" alt="Centered Image"> </a>
+  <a href="https://mp3quran.net/ar/mushaf"><img src="https://i.imgur.com/DhDmf6w.gif" width="530" alt="Centered Image"> </a>
 </div>
 
 <!-- hi five: https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif width="28"-->
@@ -18,7 +18,7 @@
 
 ### Connect with Me :
 
-<a href="https://t.me/FadhlFadhili" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=Telegram&logoColor=ffe6a7&logoSize=20&color=99582a"/></a>
+<a href="https://t.me/FadhlFadhili" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=Telegram&logoColor=ffe6a7&logoSize=20&color=99582a"/></a>
 
 ### 🛠 &nbsp;Tech Stack
 
