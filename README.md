@@ -6,7 +6,7 @@
 
 <h3 align="center">
   Welcome to Fadhl's profile
-  <img src="https://i.imgur.com/XuA0nCO.gif" width="28">
+  <img src="https://i.imgur.com/QjFb9iE.gif" width="28">
 </h3>
 
 - I'm a Software Engineer student... 
