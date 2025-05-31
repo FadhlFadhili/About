@@ -2,11 +2,11 @@
   <img src="https://i.imgur.com/DhDmf6w.gif" width="530" alt="Centered Image">
 </div>
 
-<!-- hi five: https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif -->
+<!-- hi five: https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif width="28"-->
 
 <h3 align="center">
-  Welcome to Fadhl's profile   
-  <img src="https://i.imgur.com/QjFb9iE.gif" width="20">
+  Welcome to Fadhl's profile 
+  <img src="https://i.imgur.com/QjFb9iE.gif" width="18">
 </h3>
 
 - I'm a Software Engineer student... 
