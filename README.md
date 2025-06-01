@@ -27,6 +27,4 @@
 ![Oracle PL/SQL](https://img.shields.io/badge/Oracle%20PL/SQL-white?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABAAAAALCAYAAAB24g05AAAACXBIWXMAAAaPAAAGjwHexX2lAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm%2B48GgAAAUdJREFUKJGN0j1rE2AYheHreWspIlRLUQQHJxfBKUkbpZuF%2BPEjBNGl6KSQIVPBDqLQqYsgOvsDbCN0UpqY1s3NyUFExEFBSovxcTAWhURy5vvcnOFEZoJOY%2B5CyBYWMG14vuFVipXz7d4WRGbqNGrXg0eYwF7yYVg7OIUp9CPi5vxG70lsLVbORYk3A6Y5fXR37eyzt%2FvDBOtXzkzN9I8t4T7yJ5VDpcTdZBIr9fb26ojp4PLzd3tY7TZqs2iVyDsl5UWYjFz7X%2FnvHLAZi4U4jt3Kxs7HcQUD9jtOFPIzDm9fnTs5rmDAHsGnEmITfvQtjSs4YCM3S58H2I%2FMZudS7ZblKCOby1G6jertyGxif0J5GJmp26heIx77%2FYMveE%2Fkv%2B0MnMYs%2BjJu1F%2F0nsafJ3Yb1XmiRSyQMyM2fCVf4l69vfMafgHjuHHITztEQAAAAABJRU5ErkJggg%3D%3D&labelColor=e9ecef&color=ff6b35)
 ![SQLite](https://img.shields.io/badge/SQLite-white?style=for-the-badge&logo=SQLite&logoColor=003c57&labelColor=e9ecef&color=003c57)
 
-
-
 <h4 align="left"> That's it! </h4>
